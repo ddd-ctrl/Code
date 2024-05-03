@@ -1,6 +1,10 @@
 #include<stdio.h>
 int main()
 {
-    printf("hello world");
-    return 0;
+printf("Hello World!\n");
+printf("*\n");
+printf("**\n");
+printf("*****\n");
+printf("我的程序我做主！\n");
+return 0;
 }
